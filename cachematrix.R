@@ -2,8 +2,7 @@
 ##the function will clear its cache of any previous values as a base and in set. 
 ##It will then assign the matrix to x and record it in get. 
 ##Then it will calculate the inverse of x and assign it to m in setinverse. 
-##It is stored in getinverse. 
-##Then when cacheSolve is run, 
+##It is stored in getinverse. Then when cacheSolve is run, 
 ##it will first check for if there is a cached value in getinverse from 
 ##makeCacheMatrix and store it in m.local. 
 ##If there is, it will declare its message and return the value and end the function. 
